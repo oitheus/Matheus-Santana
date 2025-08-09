@@ -1,6 +1,6 @@
 Olá, sou Matheus 👋
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou encarregado em uma empresa de logística, onde aplico habilidades de organização, liderança e otimização de processos para garantir eficiência e resultados. Apaixonado por tecnologia, estou desenvolvendo projetos que combinam minha experiência prática com soluções inovadoras. Aqui, você encontrará exemplos do meu trabalho e das tecnologias que domino.
+Bem-vindo ao meu perfil do GitHub! Sou encarregado em uma empresa de logística, onde aplico habilidades de organização, liderança e otimização de processos para garantir eficiência e resultados. Apaixonado por tecnologia, estou desenvolvendo projetos que combinam minha experiência prática com soluções inovadoras. Aqui, você encontrará exemplos do meu trabalho e das tecnologias que domino.
 
 ## 🚀 Tecnologias que estou estudando
 - HTML | CSS | JavaScript | React
